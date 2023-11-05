@@ -1,0 +1,32 @@
+{% extends 'base/base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+
+
+
+
+
+
+
+
+{% block 'body' %}
+<div class="container">
+<div class="text-center">
+    <main class="form-signin">
+        <form action="" method="post">
+            <h2 style="margin-top: 20px;margin-bottom: 20px;color: white;text-align: center;letter-spacing: normal; text-transform:capitalize;">Hey There !</h2>
+            <p>Enter your details to sign in to your account</p>
+            {% csrf_token%}
+            {{login_form|crispy}}
+            <button class="w-100 btn btn-lg btn-danger mt-3" type="submit">Sign In</button>
+            <p class="mt-5 mb-3 text-muted">Copyright 2023 Drivezy</p>
+        </form>
+    </main> 
+</div>
+</div>
+{% endblock %}
+
+
+{% block 'footer' %}
+{% endblock %}
