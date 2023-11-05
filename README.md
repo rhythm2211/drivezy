@@ -1,4 +1,4 @@
-![screencapture-127-0-0-1-8000-listing-a9a55d9d-6b18-496b-adc9-5c918e366804-2023-11-05-19_40_40](https://github.com/rhythm2211/drivezy/assets/93445155/2407ad28-fa90-4ba5-8ef6-aef3c097476c)# Drivezy
+# Drivezy
 
 Drivezy is an all-encompassing automotive project, a one-stop destination designed to delight car enthusiasts with its seamless functionality. Crafted with an amalgamation of cutting-edge web technologies including HTML, CSS, Bootstrap, jQuery, and the robust Django framework, Drivezy offers an exhilarating online platform to list and purchase your cherished vehicles.
 
@@ -11,6 +11,7 @@ Drivezy seamlessly amalgamates state-of-the-art technology and automotive passio
 Screenshots :
 
 ![Uploading screencapture-127-0-0-1-8000-listing-a9a55d9d-6b18-496b-adc9-5c918e366804-2023-11-05-19_40_40.png…]()
+![screencapture-127-0-0-1-8000-listing-a9a55d9d-6b18-496b-adc9-5c918e366804-2023-11-05-19_40_40](https://github.com/rhythm2211/drivezy/assets/93445155/2407ad28-fa90-4ba5-8ef6-aef3c097476c)
 ![screencapture-127-0-0-1-8000-home-2023-11-05-19_41_29](https://github.com/rhythm2211/drivezy/assets/93445155/80e440fc-6eac-4e2a-a04b-f715d51e7574)
 ![screencapture-127-0-0-1-8000-profile-2023-11-05-19_42_07](https://github.com/rhythm2211/drivezy/assets/93445155/1815b891-08f5-4149-a497-11aa04a7c041)
 ![screencapture-127-0-0-1-8000-2023-11-05-19_42_33](https://github.com/rhythm2211/drivezy/assets/93445155/9dc6ade4-a0a4-40c4-9ec8-f528243a2ed2)
