@@ -2,7 +2,7 @@
     "version":2,
     "builds":[
         {
-            "src":"drivezy/wsgi.py",
+            "src":"automax/wsgi.py",
             "use":"@vercel/python",
             "config":{"maxLambdaSize":"15mb","runtime":"python3.11.3"}
 
@@ -22,7 +22,7 @@
     },
     {
         "src":"/(.*)",
-        "dest":"drivezy/wsgi.py"
+        "dest":"automax/wsgi.py"
     }
     ]
 }
