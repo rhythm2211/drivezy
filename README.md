@@ -1,4 +1,4 @@
-# drivezy
+# Drivezy
 
 Drivezy is an all-encompassing automotive project, a one-stop destination designed to delight car enthusiasts with its seamless functionality. Crafted with an amalgamation of cutting-edge web technologies including HTML, CSS, Bootstrap, jQuery, and the robust Django framework, Drivezy offers an exhilarating online platform to list and purchase your cherished vehicles.
 
